@@ -1,4 +1,4 @@
-# 📝 Enhanced Todo Task Manager
+# 📝 Todo Task Manager
 
 A sleek and responsive Todo List web application that allows users to manage daily tasks with ease. It supports adding, completing, deleting, and clearing tasks, while also saving them in `localStorage` so data persists even after page refreshes.
 
